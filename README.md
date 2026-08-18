@@ -49,8 +49,8 @@ Display all edge-detected images for comparison.
 
 ## Developed By
 
-- **Name:** Shree Chandru R
-- **Register No:** 212224230264
+- **Name:** POTHU SUMANTH
+- **Register No:** 212224240115
 
 ---
 
